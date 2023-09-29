@@ -1,2 +1,2 @@
-std_msgs/Header header
+Header header
 std_msgs/Float64MultiArray multi_array
