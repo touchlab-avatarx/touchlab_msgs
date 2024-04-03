@@ -12,6 +12,12 @@ add_message_files(
   Float64MultiArrayStamped.msg
 )
 
+## Generate services in the 'srv' folder
+add_service_files(
+  FILES
+  StringTrigger.srv
+)
+
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
   DEPENDENCIES
