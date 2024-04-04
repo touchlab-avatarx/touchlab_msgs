@@ -1,3 +1,4 @@
 string[] str_array
 ---
 bool success
+string message
