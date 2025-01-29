@@ -8,3 +8,4 @@ int32 iterations
 ---
 # Feedback
 int32 current_iteration
+float32 angle
