@@ -15,6 +15,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Float64MultiArrayStamped.msg"
   "msg/WrenchArray.msg"
   "action/RigControl.action"
+  "srv/SetPosition.srv"
   DEPENDENCIES std_msgs geometry_msgs # Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg
 )
 
