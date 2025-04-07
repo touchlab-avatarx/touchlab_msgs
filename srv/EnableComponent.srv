@@ -1,0 +1,9 @@
+bool left_arm_enable
+bool right_arm_enable
+bool left_hand_enable
+bool right_hand_enable
+
+---
+
+bool success   # indicate successful run of triggered service
+string message # informational, e.g. for error messages
