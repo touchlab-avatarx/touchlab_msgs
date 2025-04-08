@@ -1,7 +1,5 @@
-bool left_arm_enable
-bool right_arm_enable
-bool left_hand_enable
-bool right_hand_enable
+string component
+bool enable
 
 ---
 
