@@ -1,5 +1,0 @@
-bool open
-float64 position 
----
-bool success
-string message
