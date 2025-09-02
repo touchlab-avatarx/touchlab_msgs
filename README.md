@@ -1,5 +1,3 @@
-# touchlab_msgs
-
 Touchlab sensor message types.
 
 Messages:
